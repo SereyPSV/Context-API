@@ -1,0 +1,21 @@
+.button {
+	float: left;
+	display: block;
+
+	margin-right: 20px;
+	padding: 10px 30px;
+	background: linear-gradient(#626466, #303132);
+	color: #ffffff;
+	border-radius: 6px;
+	font-size: 1em;
+	font-family: 'Raleway', Verdana, Arial, Helvetica, sans-serif;
+	box-shadow: -1px -1px 1px #999;
+	transition: all 0.3s ease;
+}
+.button:hover {
+	/* opacity: 0.7; */
+	background: linear-gradient(#404040, #606472);
+	color: #ffffff;
+	text-decoration: none;
+	color: #ff6;
+}

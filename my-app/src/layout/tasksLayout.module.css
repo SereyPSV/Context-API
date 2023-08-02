@@ -1,0 +1,22 @@
+.wrapper {
+	margin: auto;
+	max-width: 60%;
+	font-size: 1rem;
+	border: 6px antiquewhite solid;
+	box-shadow: 2px 2px 10px #999;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 5px 0px 5px 30px;
+	margin-bottom: 10px;
+	text-align: left;
+}
+
+.task {
+	font-size: 1.3em;
+}
+
+.buttons {
+	display: flex;
+	margin: 20px;
+}
